@@ -1,0 +1,21 @@
+.normal-link{
+    color: #ff3d00;
+    font-size: 20px;
+    margin: 10px;
+    text-decoration: none;
+}
+.normal-link:hover{
+    color: #00e676;
+    text-decoration: underline;
+}
+.button-link{
+    color: #fff;
+    background-color: #c2185b;
+    font-size: 15px;
+    margin-top: 100px;
+    padding: 10px;
+    text-decoration: none;
+}
+.button-link:hover{
+    background: #2196f3;
+}
